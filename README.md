@@ -1,7 +1,6 @@
-# logicaldoc
-Logicaldoc - Gestión documental - Docker compose
+# Logicaldoc
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 Usuario: admin
 
